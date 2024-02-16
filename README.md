@@ -1,1 +1,1 @@
-# comp202
+# comp202-projects
